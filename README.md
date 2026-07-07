@@ -138,6 +138,7 @@ True 1              220           368
 ```
 
 전체 테스트 데이터 1400개 중 1068개를 맞추어, 예시 기준 테스트 정확도는 약 **76.3%**입니다.
+<img width="1198" height="1108" alt="image" src="https://github.com/user-attachments/assets/b035adbf-135d-4438-acca-07a2b9ef97e1" />
 
 ## 10. 결과 해석
 
